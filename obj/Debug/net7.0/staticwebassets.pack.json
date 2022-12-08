@@ -1,0 +1,373 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/.DS_Store",
+      "PackagePath": "staticwebassets/.DS_Store"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/css/site.css",
+      "PackagePath": "staticwebassets/css/site.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/css/visulation.css",
+      "PackagePath": "staticwebassets/css/visulation.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/dist/amplitude.js",
+      "PackagePath": "staticwebassets/dist/amplitude.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/dist/amplitude.js.map",
+      "PackagePath": "staticwebassets/dist/amplitude.js.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/dist/amplitude.min.js",
+      "PackagePath": "staticwebassets/dist/amplitude.min.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/dist/visualizations/bar.js",
+      "PackagePath": "staticwebassets/dist/visualizations/bar.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/dist/visualizations/circular-equalizer.js",
+      "PackagePath": "staticwebassets/dist/visualizations/circular-equalizer.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/dist/visualizations/frequencyanalyzer.js",
+      "PackagePath": "staticwebassets/dist/visualizations/frequencyanalyzer.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/dist/visualizations/michaelbromley.js",
+      "PackagePath": "staticwebassets/dist/visualizations/michaelbromley.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/dist/visualizations/template.js",
+      "PackagePath": "staticwebassets/dist/visualizations/template.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/favicon.ico",
+      "PackagePath": "staticwebassets/favicon.ico"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/arrow-down.svg",
+      "PackagePath": "staticwebassets/img/arrow-down.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/arrow-up.svg",
+      "PackagePath": "staticwebassets/img/arrow-up.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/hamburger.svg",
+      "PackagePath": "staticwebassets/img/hamburger.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/next.svg",
+      "PackagePath": "staticwebassets/img/next.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/pause.svg",
+      "PackagePath": "staticwebassets/img/pause.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/play.svg",
+      "PackagePath": "staticwebassets/img/play.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/prev.svg",
+      "PackagePath": "staticwebassets/img/prev.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/profile.jpeg",
+      "PackagePath": "staticwebassets/img/profile.jpeg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/repeat-off.svg",
+      "PackagePath": "staticwebassets/img/repeat-off.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/repeat-on.svg",
+      "PackagePath": "staticwebassets/img/repeat-on.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/shuffle-off.svg",
+      "PackagePath": "staticwebassets/img/shuffle-off.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/shuffle-on.svg",
+      "PackagePath": "staticwebassets/img/shuffle-on.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/small-next.svg",
+      "PackagePath": "staticwebassets/img/small-next.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/small-pause.svg",
+      "PackagePath": "staticwebassets/img/small-pause.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/small-play.svg",
+      "PackagePath": "staticwebassets/img/small-play.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/visualization-off.svg",
+      "PackagePath": "staticwebassets/img/visualization-off.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/img/visualization-on.svg",
+      "PackagePath": "staticwebassets/img/visualization-on.svg"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/js/site.js",
+      "PackagePath": "staticwebassets/js/site.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/js/visulation.js",
+      "PackagePath": "staticwebassets/js/visulation.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/LICENSE",
+      "PackagePath": "staticwebassets/lib/bootstrap"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.min.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/css/bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.js.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.js.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/bootstrap/dist/js/bootstrap.min.js.map",
+      "PackagePath": "staticwebassets/lib/bootstrap/dist/js/bootstrap.min.js.map"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery-validation-unobtrusive/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation-unobtrusive/jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery-validation/LICENSE.md",
+      "PackagePath": "staticwebassets/lib/jquery-validation/LICENSE.md"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery-validation/dist/additional-methods.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery-validation/dist/additional-methods.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/additional-methods.min.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery-validation/dist/jquery.validate.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery-validation/dist/jquery.validate.min.js",
+      "PackagePath": "staticwebassets/lib/jquery-validation/dist/jquery.validate.min.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery/LICENSE.txt",
+      "PackagePath": "staticwebassets/lib/jquery/LICENSE.txt"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery/dist/jquery.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery/dist/jquery.min.js",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.js"
+    },
+    {
+      "Id": "/Users/umitkoc/Desktop/umitkoc/wwwroot/lib/jquery/dist/jquery.min.map",
+      "PackagePath": "staticwebassets/lib/jquery/dist/jquery.min.map"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.build.umitkoc.props",
+      "PackagePath": "build\\umitkoc.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildMultiTargeting.umitkoc.props",
+      "PackagePath": "buildMultiTargeting\\umitkoc.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.buildTransitive.umitkoc.props",
+      "PackagePath": "buildTransitive\\umitkoc.props"
+    },
+    {
+      "Id": "obj/Debug/net7.0/staticwebassets/msbuild.umitkoc.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

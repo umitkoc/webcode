@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 25.0.1704.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "umitkoc", "umitkoc.csproj", "{51373845-83C7-4A9E-B831-2D006869DB83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{51373845-83C7-4A9E-B831-2D006869DB83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51373845-83C7-4A9E-B831-2D006869DB83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51373845-83C7-4A9E-B831-2D006869DB83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51373845-83C7-4A9E-B831-2D006869DB83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3C155E5F-0CDB-48BD-875C-A9AED02EAB43}
+	EndGlobalSection
+EndGlobal
